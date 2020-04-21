@@ -1,0 +1,13 @@
+D:\c# programs\console app beginning\console app beginning\obj\Debug\netcoreapp3.1\console app beginning.csprojAssemblyReference.cache
+D:\c# programs\console app beginning\console app beginning\obj\Debug\netcoreapp3.1\console app beginning.csproj.CoreCompileInputs.cache
+D:\c# programs\console app beginning\console app beginning\obj\Debug\netcoreapp3.1\console app beginning.AssemblyInfoInputs.cache
+D:\c# programs\console app beginning\console app beginning\obj\Debug\netcoreapp3.1\console app beginning.AssemblyInfo.cs
+D:\c# programs\console app beginning\console app beginning\bin\Debug\netcoreapp3.1\console app beginning.exe
+D:\c# programs\console app beginning\console app beginning\bin\Debug\netcoreapp3.1\console app beginning.deps.json
+D:\c# programs\console app beginning\console app beginning\bin\Debug\netcoreapp3.1\console app beginning.runtimeconfig.json
+D:\c# programs\console app beginning\console app beginning\bin\Debug\netcoreapp3.1\console app beginning.runtimeconfig.dev.json
+D:\c# programs\console app beginning\console app beginning\bin\Debug\netcoreapp3.1\console app beginning.dll
+D:\c# programs\console app beginning\console app beginning\bin\Debug\netcoreapp3.1\console app beginning.pdb
+D:\c# programs\console app beginning\console app beginning\obj\Debug\netcoreapp3.1\console app beginning.dll
+D:\c# programs\console app beginning\console app beginning\obj\Debug\netcoreapp3.1\console app beginning.pdb
+D:\c# programs\console app beginning\console app beginning\obj\Debug\netcoreapp3.1\console app beginning.genruntimeconfig.cache
